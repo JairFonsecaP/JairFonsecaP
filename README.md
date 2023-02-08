@@ -17,5 +17,6 @@
 📫 You can reach me:
 
 [Portfolio](https://hectorfonseca.dev)
+
 [LinkedIn](https://www.linkedin.com/in/hectorfonsecap/)
     
